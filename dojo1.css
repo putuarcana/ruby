@@ -1,0 +1,43 @@
+/* Reset CSS (DO NOT DELETE) */
+
+html,
+body,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+form,
+input,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Avenir Next";
+}
+
+li {
+    list-style: none;
+}
+
+
+/* Write your code below */
+
+.atas {
+    background-color: #26d0c9;
+    color: #ffffff;
+    height: 80px;
+}
+
+.atas-logo {
+    float: left;
+    padding: 15px 30px;
+    font-size: 35px;
+}
